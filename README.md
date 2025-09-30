@@ -12,7 +12,7 @@ The contents of this repository are as follows:
 The exact Python version used was 3.10.18. The precise dependencies can be installed from `requirements.txt`. For the [*copia*](https://github.com/mikekestemont/copia) package, use version (v.0.1.6), commit number '4725e06'.
 
 ## Persistent archiving
-Releases of this repository are sustainably mirrored on [Zenodo](https://zenodo.org/), ensuring long-term archival access to this material. Please consider citing the accompanying paper if you re-use this code for academic purposes.
+Releases of this repository are sustainably mirrored on [Zenodo](https://zenodo.org/), ensuring long-term archival access to this material [[DOI]]([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17236111.svg)](https://doi.org/10.5281/zenodo.17236111)). Please consider citing the accompanying paper if you re-use this code for academic purposes.
 
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
