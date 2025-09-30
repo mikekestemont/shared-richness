@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/595561943.svg)](https://doi.org/10.5281/zenodo.14732465)
 
 This repository documents the code and data supporting the following publication:
 
